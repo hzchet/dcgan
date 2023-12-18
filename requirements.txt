@@ -1,0 +1,7 @@
+torchvision
+piq
+requests
+matplotlib
+wandb
+tensorboard
+tqdm
